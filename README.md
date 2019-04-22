@@ -1,4 +1,4 @@
-<img src="Spotify.png" align="right" />
+
 
 # Spotify Account Creator
 
