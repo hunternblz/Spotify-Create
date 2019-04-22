@@ -6,7 +6,7 @@
 ## Installation
 
 ```terminal
-$ git clone this project
+$ git clone https://github.com/hunternblz/SpotifyCreate.git
 $ cd SpotifyCreate
 ```
 
