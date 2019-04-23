@@ -1,5 +1,3 @@
-
-
 # Spotify Account Creator
 
 
