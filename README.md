@@ -5,7 +5,7 @@
 
 ```terminal
 $ git clone https://github.com/hunternblz/SpotifyCreate.git
-$ cd SpotifyCreate
+$ cd Spotify-Create
 ```
 
 ## Usage
